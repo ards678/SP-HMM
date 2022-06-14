@@ -11,3 +11,4 @@ scikit_learn==1.1.1
 scipy==1.7.3
 seaborn==0.11.2
 streamlit==1.10.0
+libsndfile1-dev
